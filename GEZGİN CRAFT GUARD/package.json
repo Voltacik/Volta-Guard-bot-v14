@@ -1,0 +1,30 @@
+{
+    "name": "volta-guard-bot",
+    "version": "1.0.0",
+    "description": "Volta Guard Bot - Discord.js v14 tabanlı gelişmiş koruma botu.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "discord",
+        "bot",
+        "guard",
+        "discord.js",
+        "security",
+        "protection"
+    ],
+    "author": "Volta",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "discord.js": "^14.18.0",
+        "dotenv": "^16.3.1",
+        "fs-extra": "^11.2.0",
+        "moment": "^2.29.4",
+        "node-fetch": "^2.6.7"
+    },
+    "engines": {
+        "node": ">=16.9.0"
+    }
+}
